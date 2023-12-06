@@ -28,3 +28,5 @@ Install Nginx reverse proxy to make this application available
 
 `sudo apt-get update`
 `sudo apt install nginx`
+
+![image](https://github.com/suryaadev/django-notes-app/assets/47253310/75f863f1-ba6f-47b7-b67c-4ca9ffa51855)
