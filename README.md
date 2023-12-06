@@ -30,4 +30,21 @@ Install Nginx reverse proxy to make this application available
 `sudo apt-get update`
 `sudo apt install nginx`
 
+# Deploy with Docker
+
+## Requirements
+
+1. Docker
+2. Docker hub
+3. Docker compose
+4. Jenkins
+5. AWS EC2
+
+## Steps
+
+1. clone code from git
+2. build docker image
+3. push image on docker hub
+4. deploy on AWS 
+
 ![image](https://github.com/suryaadev/django-notes-app/assets/47253310/75f863f1-ba6f-47b7-b67c-4ca9ffa51855)
