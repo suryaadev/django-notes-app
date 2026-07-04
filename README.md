@@ -1,4 +1,4 @@
-# Notes App
+# Notes Appus
 This is a simple notes app built with React and Django.
 
 ## Requirements
