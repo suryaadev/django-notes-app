@@ -26,7 +26,7 @@ pipeline {
         stage("Deployment"){
             steps{
                 echo "Deployment started...."
-                sh "docker rm -f $(docker ps -aq --filter "name=noting-app")"
+                sh 'docker rm -f $(docker ps -aq --filter "name=noting-app")'
                 sh "docker compose up -d"
             }
         }
