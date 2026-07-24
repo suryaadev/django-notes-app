@@ -5,7 +5,6 @@ This is a simple notes app built with React and Django.
 1. Python 3.9
 2. Node.js
 3. React
-4. 
 
 ## Installation
 1. Clone the repository
@@ -48,3 +47,5 @@ Install Nginx reverse proxy to make this application available
 4. deploy on AWS 
 
 ![image](https://github.com/suryaadev/django-notes-app/assets/47253310/75f863f1-ba6f-47b7-b67c-4ca9ffa51855)
+
+# Impelenting K8s
